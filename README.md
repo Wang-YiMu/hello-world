@@ -2,4 +2,4 @@
 
 just test
 
-printf("hello"\n);
+printf("hello world!"\n);
