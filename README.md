@@ -1,5 +1,5 @@
 # hello-world
 
-just test
+thank you!
 
 printf("hello world!"\n);
